@@ -5,22 +5,22 @@ This guide provides instructions on how to set up a virtual machine on Microsoft
 
 <h2>What Do You Need?</h2>
 
--Microsoft Azure Cloud: This is where the virtual machine is hosted. The user interacts with this environment through the Azure portal.
+- Microsoft Azure Cloud: This is where the virtual machine is hosted. The user interacts with this environment through the Azure portal.
 
--User's Local System: This refers to the user's computer, which is used to access the Azure portal and later connect to the deployed VM.
+- User's Local System: This refers to the user's computer, which is used to access the Azure portal and later connect to the deployed VM.
 completely reword this
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems That Can Use Virtual Machines </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- macOS
+- Windows
+- Linux
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Quick Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1- Access Azure Portal and Begin VM Setup
+- Step 2- Basic VM Configuration
+- Step 3- Review and Create VM
 
 <h2>Deployment and Configuration Steps</h2>
 
