@@ -3,12 +3,12 @@
 <h1>Creating A Virtual Machine On Azure</h1>
 This guide provides instructions on how to set up a virtual machine on Microsoft Azure. It explains the initial configuration including details like VM name, geographical location, size, and operating system selection.
 
-<h2>Environments and Technologies Used</h2>
+<h2>What Do You Need?</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+-Microsoft Azure Cloud: This is where the virtual machine is hosted. The user interacts with this environment through the Azure portal.
+
+-User's Local System: This refers to the user's computer, which is used to access the Azure portal and later connect to the deployed VM.
+completely reword this
 
 <h2>Operating Systems Used </h2>
 
