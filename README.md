@@ -37,7 +37,9 @@ Click on the "Create a resource" button (+), search for "Virtual Machine", selec
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Fill out the details for the VM including Subscription, Resource Group, VM name, Region, Image (OS), and Size.
+Choose your authentication type and create a username and password.
+Select appropriate inbound port rules. (For example, RDP (3389) for a Windows VM, or SSH (22) for a Linux VM.)
 </p>
 <br />
 
@@ -45,6 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the Basic tab, you can go through the Disks, Networking, and Management tabs for more advanced configurations, or leave them as the default settings.
+Click on "Review + Create" to validate your settings. If all settings pass the validation, you can click on "Create" to start the VM deployment.
 </p>
 <br />
