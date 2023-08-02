@@ -44,7 +44,7 @@ Select appropriate inbound port rules. (For example, RDP (3389) for a Windows VM
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="615" alt="Screenshot 2023-08-01 at 8 36 41 PM" src="https://github.com/AhbasShah/VirtualMachine/assets/141075365/d81302b9-3548-4eb6-9c1b-4669dab5f47a">
 </p>
 <p>
 After the Basic tab, you can go through the Disks, Networking, and Management tabs for more advanced configurations, or leave them as the default settings.
