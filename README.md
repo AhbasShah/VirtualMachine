@@ -10,6 +10,20 @@ This guide provides instructions on how to set up a virtual machine on Microsoft
 - User's Local System: This refers to the user's computer, which is used to access the Azure portal and later connect to the deployed VM.
 completely reword this
 
+<h2>Things To Note</h2>
+
+Don't Ignore Security: Even though VMs are isolated environments, they are not immune to security threats. Always follow the principle of least privilege, keep your VMs updated, and use security tools provided by Azure, like Azure Security Center.
+
+Don't Forget Cost Management: Azure (like any cloud provider) charges based on the resources you use. Remember to stop or deallocate VMs when they're not in use to avoid unnecessary costs. Also, select the VM size that best fits your needs, larger VMs are more expensive.
+
+Don't Neglect Backups: Even though your VMs are in the cloud, you should still back them up. Azure offers a backup service that can be used for this purpose.
+
+Don't Ignore Performance Monitoring: Azure provides a variety of monitoring tools that you should make use of to ensure your VMs are running smoothly. This can help you spot and fix performance issues before they become critical.
+
+Don't Skip Planning: Before setting up a VM, have a clear understanding of what you need it for. This includes the specifications it should have (CPU, memory, storage), the networking setup, who needs access to it, and more.
+
+Don't Overlook Compliance: If your application needs to comply with certain standards (like GDPR, HIPAA, etc.), ensure that your use of Azure VMs adheres to these requirements.
+
 <h2>Operating Systems That Can Use Virtual Machines </h2>
 
 - macOS
