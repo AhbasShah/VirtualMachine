@@ -25,7 +25,7 @@ completely reword this
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1250" alt="Screenshot 2023-08-01 at 8 29 00 PM" src="https://github.com/AhbasShah/VirtualMachine/assets/141075365/7a663d27-2245-4770-888d-905a2e5d8087">
 </p>
 <p>
 Sign in to your Azure account at https://portal.azure.com.
@@ -34,7 +34,7 @@ Click on the "Create a resource" button (+), search for "Virtual Machine", selec
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="615" alt="Screenshot 2023-08-01 at 8 32 59 PM" src="https://github.com/AhbasShah/VirtualMachine/assets/141075365/40715c57-77ce-4655-bb4e-3dcf2f0358a9">
 </p>
 <p>
 Fill out the details for the VM including Subscription, Resource Group, VM name, Region, Image (OS), and Size.
